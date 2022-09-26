@@ -1,0 +1,12 @@
+{
+  "name": "react-example",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "12.3.2-canary.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
